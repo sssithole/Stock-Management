@@ -1,0 +1,40 @@
+body{
+    background-color: #000000;
+    padding: auto;
+    
+}
+
+nav{
+    text-align: center;
+    font: optional;    
+    color: #f2f211;
+    background-color: #000000;
+    height: 5em;
+}
+
+#myTable{
+    padding: 10px;
+    color: #f2f211;
+    border-radius: 2em;
+}
+
+#myTableData{
+    color: #f2f211;
+    border-radius: 30px;
+    border: 10em;
+}
+
+#add{
+    background-color: #f2f211;
+    border: 1em;
+    border-radius: 2em;
+    height: 2em;
+    width: 4em;
+}
+
+input[type=text]{
+    border: 1.5em;
+    border-radius: 2em;
+
+}
+
